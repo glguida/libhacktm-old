@@ -1,0 +1,16 @@
+libhacktm -- An hobbyist Hierarchical Temporal Memory implementation.
+
+libhacktm is a C library written for fun and to understand internals
+of HTMs, based on available information at the time (September 2010)
+about FDR-based HTMs.
+
+This is just intended to be a base to experiment with it, it
+implements feed-forward only learning and inference.
+
+To contact the author write to Gianluca Guida (glguida at gmail dot
+com)
+
+EDIT: Details about the real FDR-based Numenta algorithm are
+available now at http://www.numenta.com/htm-overview/education.php
+This library was developed while this information was not available,
+so it doesn't follow it strictly.
